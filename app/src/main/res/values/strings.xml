@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">O Porquê Eu Te Amo</string>
+    <string-array name="love_phrases">
+        <item>Eu te amo porque seu sorriso ilumina meu dia.</item>
+        <item>Eu te amo porque você me faz sentir em casa, onde quer que eu esteja.</item>
+        <item>Eu te amo porque seus abraços curam qualquer tristeza.</item>
+        <item>Eu te amo porque você me completa de uma forma que ninguém mais consegue.</item>
+        <item>Eu te amo porque sua voz é a melodia mais linda que já ouvi.</item>
+        <item>Eu te amo porque você me inspira a ser uma pessoa melhor a cada dia.</item>
+        <item>Eu te amo porque sua presença transforma qualquer momento em algo especial.</item>
+        <item>Eu te amo porque você me faz rir mesmo nos dias mais difíceis.</item>
+        <item>Eu te amo porque sua bondade é um presente que valorizo imensamente.</item>
+        <item>Eu te amo porque você me ensinou o verdadeiro significado do amor.</item>
+        <item>Eu te amo porque cada momento ao seu lado é um tesouro.</item>
+        <item>Eu te amo porque você é a minha paz em meio ao caos.</item>
+        <item>Eu te amo porque sua força me impulsiona a seguir em frente.</item>
+        <item>Eu te amo porque você me aceita exatamente como eu sou.</item>
+        <item>Eu te amo porque seus olhos são o meu refúgio.</item>
+        <item>Eu te amo porque você é a resposta para todas as minhas orações.</item>
+        <item>Eu te amo porque sua paixão me contagia.</item>
+        <item>Eu te amo porque você é o meu porto seguro.</item>
+        <item>Eu te amo porque sua inteligência me fascina.</item>
+        <item>Eu te amo porque você é a minha melhor aventura.</item>
+        <item>Eu te amo porque sua doçura me desarma.</item>
+        <item>Eu te amo porque você é a estrela que guia o meu caminho.</item>
+        <item>Eu te amo porque sua delicadeza me encanta.</item>
+        <item>Eu te amo porque você é a razão do meu sorriso.</item>
+        <item>Eu te amo porque sua presença acalma a minha alma.</item>
+        <item>Eu te amo porque você é o meu maior presente.</item>
+        <item>Eu te amo porque sua alegria é contagiante.</item>
+        <item>Eu te amo porque você é a minha inspiração diária.</item>
+        <item>Eu te amo porque sua ternura me envolve.</item>
+        <item>Eu te amo porque você é o meu sonho realizado.</item>
+        <item>Eu te amo porque sua beleza vai além do que os olhos podem ver.</item>
+        <item>Eu te amo porque você é a minha melodia preferida.</item>
+        <item>Eu te amo porque sua essência é pura magia.</item>
+        <item>Eu te amo porque você é o meu tudo.</item>
+        <item>Eu te amo porque sua alma é linda.</item>
+        <item>Eu te amo porque você me faz sentir vivo.</item>
+        <item>Eu te amo porque sua risada é a melhor trilha sonora.</item>
+        <item>Eu te amo porque você é a minha dose diária de felicidade.</item>
+        <item>Eu te amo porque sua companhia é o meu maior desejo.</item>
+        <item>Eu te amo porque você é a pessoa mais incrível que já conheci.</item>
+        <item>Eu te amo porque sua paixão me incendeia.</item>
+        <item>Eu te amo porque você é a minha luz no fim do túnel.</item>
+        <item>Eu te amo porque sua presença é um bálsamo para o meu coração.</item>
+        <item>Eu te amo porque você é a minha canção de amor.</item>
+        <item>Eu te amo porque sua voz me acalma.</item>
+        <item>Eu te amo porque você é o meu paraíso particular.</item>
+        <item>Eu te amo porque sua sabedoria me guia.</item>
+        <item>Eu te amo porque você é a minha fortaleza.</item>
+        <item>Eu te amo porque sua paixão me move.</item>
+        <item>Eu te amo porque você é a minha eterna paixão.</item>
+        <item>Eu te amo porque sua presença é um presente.</item>
+        <item>Eu te amo porque você é a minha estrela-guia.</item>
+        <item>Eu te amo porque sua essência é única.</item>
+        <item>Eu te amo porque você é o meu amor verdadeiro.</item>
+        <item>Eu te amo porque sua alma é pura.</item>
+        <item>Eu te amo porque você me faz sentir completo.</item>
+        <item>Eu te amo porque sua risada é a minha alegria.</item>
+        <item>Eu te amo porque você é a minha felicidade.</item>
+        <item>Eu te amo porque sua companhia é o meu maior prazer.</item>
+        <item>Eu te amo porque você é a pessoa que eu sempre sonhei.</item>
+        <item>Eu te amo porque sua paixão me inspira.</item>
+        <item>Eu te amo porque você é a minha razão de viver.</item>
+        <item>Eu te amo porque sua presença é um conforto.</item>
+        <item>Eu te amo porque você é a minha canção favorita.</item>
+        <item>Eu te amo porque sua voz me encanta.</item>
+        <item>Eu te amo porque você é o meu refúgio.</item>
+        <item>Eu te amo porque sua sabedoria me ilumina.</item>
+        <item>Eu te amo porque você é a minha rocha.</item>
+        <item>Eu te amo porque sua paixão me aquece.</item>
+        <item>Eu te amo porque você é a minha alma gêmea.</item>
+        <item>Eu te amo porque sua presença é um milagre.</item>
+        <item>Eu te amo porque você é a minha estrela cadente.</item>
+        <item>Eu te amo porque sua essência é divina.</item>
+        <item>Eu te amo porque você é o meu destino.</item>
+        <item>Eu te amo porque sua alma é radiante.</item>
+        <item>Eu te amo porque você me faz sentir amado.</item>
+        <item>Eu te amo porque sua risada é a minha melodia.</item>
+        <item>Eu te amo porque você é a minha alegria constante.</item>
+        <item>Eu te amo porque sua companhia é o meu maior tesouro.</item>
+        <item>Eu te amo porque você é a pessoa que eu mais amo.</item>
+        <item>Eu te amo porque sua paixão me consome.</item>
+        <item>Eu te amo porque você é a minha razão de ser.</item>
+        <item>Eu te amo porque sua presença é um bálsamo.</item>
+        <item>Eu te amo porque você é a minha canção de ninar.</item>
+        <item>Eu te amo porque sua voz me hipnotiza.</item>
+        <item>Eu te amo porque você é o meu santuário.</item>
+        <item>Eu te amo porque sua sabedoria me enriquece.</item>
+        <item>Eu te amo porque você é a minha base.</item>
+        <item>Eu te amo porque sua paixão me envolve.</item>
+        <item>Eu te amo porque você é a minha outra metade.</item>
+        <item>Eu te amo porque sua presença é uma bênção.</item>
+        <item>Eu te amo porque você é a minha estrela guia.</item>
+        <item>Eu te amo porque sua essência é pura.</item>
+        <item>Eu te amo porque você é o meu amor eterno.</item>
+        <item>Eu te amo porque sua alma é pura luz.</item>
+        <item>Eu te amo porque você me faz sentir especial.</item>
+        <item>Eu te amo porque sua risada é a minha canção.</item>
+        <item>Eu te amo porque você é a minha felicidade sem fim.</item>
+        <item>Eu te amo porque sua companhia é o meu maior conforto.</item>
+        <item>Eu te amo porque você é a pessoa que eu escolhi para amar.</item>
+        <item>Eu te amo porque sua paixão me arrebata.</item>
+        <item>Eu te amo porque você é a minha vida.</item>
+        <item>Eu te amo porque sua presença é a minha maior alegria.</item>
+        <item>Eu te amo porque você é a minha canção de amor favorita.</item>
+        <item>Eu te amo porque sua voz me acalma a alma.</item>
+        <item>Eu te amo porque você é o meu lugar seguro.</item>
+        <item>Eu te amo porque sua sabedoria me inspira a crescer.</item>
+        <item>Eu te amo porque você é a minha âncora.</item>
+        <item>Eu te amo porque sua paixão me faz sonhar.</item>
+        <item>Eu te amo porque você é o meu amor, meu tudo.</item>
+    </string-array>
+</resources>
+

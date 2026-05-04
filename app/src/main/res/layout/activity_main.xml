@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context=".MainActivity">
+
+    <!-- Elementos decorativos no topo -->
+    <ImageView
+        android:id="@+id/heart_decoration_top_left"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="48dp"
+        android:alpha="0.6"
+        android:src="@drawable/ic_heart"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/decoration_pink" />
+
+    <ImageView
+        android:id="@+id/star_decoration_top_right"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="48dp"
+        android:alpha="0.5"
+        android:src="@drawable/ic_star"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/decoration_gold" />
+
+    <!-- Container principal para a frase -->
+    <LinearLayout
+        android:id="@+id/phrase_container"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <!-- Coração decorativo acima da frase -->
+        <ImageView
+            android:id="@+id/heart_decoration_center"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/ic_heart_filled"
+            app:tint="@color/primary_pink" />
+
+        <!-- Texto da frase de amor -->
+        <TextView
+            android:id="@+id/love_phrase_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/dancing_script"
+            android:gravity="center"
+            android:lineSpacingExtra="4dp"
+            android:text="Eu te amo porque seu sorriso ilumina meu dia."
+            android:textColor="@color/text_primary"
+            android:textSize="24sp"
+            android:textStyle="normal" />
+
+        <!-- Flores decorativas abaixo da frase -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_marginEnd="8dp"
+                android:alpha="0.7"
+                android:src="@drawable/ic_flower"
+                app:tint="@color/decoration_rose" />
+
+            <ImageView
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:alpha="0.8"
+                android:src="@drawable/ic_flower"
+                app:tint="@color/decoration_pink" />
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_marginStart="8dp"
+                android:alpha="0.7"
+                android:src="@drawable/ic_flower"
+                app:tint="@color/decoration_rose" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- Elementos decorativos na parte inferior -->
+    <ImageView
+        android:id="@+id/star_decoration_bottom_left"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="120dp"
+        android:alpha="0.4"
+        android:src="@drawable/ic_star"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:tint="@color/decoration_gold" />
+
+    <!-- Botão de compartilhamento -->
+
+    <!-- Botão de atualizar mensagem -->
+
+    <ImageView
+        android:id="@+id/heart_decoration_bottom_right"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="148dp"
+        android:alpha="0.5"
+        android:src="@drawable/ic_heart"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tint="@color/decoration_pink" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/share_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="16dp"
+        android:backgroundTint="@color/primary_pink"
+        android:src="@drawable/ic_heart_share"
+        app:borderWidth="0dp"
+        app:elevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tint="@android:color/white" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/refresh_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/primary_pink"
+        android:src="@drawable/ic_refresh"
+        app:borderWidth="0dp"
+        app:elevation="8dp"
+        app:layout_constraintBottom_toTopOf="@id/share_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.957"
+        app:layout_constraintStart_toEndOf="@+id/star_decoration_bottom_left"
+        app:tint="@android:color/white" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
