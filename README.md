@@ -20,10 +20,6 @@ Um aplicativo Android minimalista e romântico desenvolvido como um presente dig
 - **Geração de Imagem**: Canvas API do Android
 - **Compartilhamento**: FileProvider para compartilhamento seguro de arquivos
 
-## 📸 Screenshots
-
-*(Dica: Adicione aqui capturas de tela do seu app após subir para o GitHub)*
-
 ## 🛠️ Como Instalar e Executar
 
 1.  **Clone o repositório**:
