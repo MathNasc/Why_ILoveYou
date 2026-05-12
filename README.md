@@ -24,7 +24,7 @@ Um aplicativo Android minimalista e romântico desenvolvido como um presente dig
 
 1.  **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/o-porque-eu-te-amo.git
+    git clone https://github.com/seu-usuario/Why_ILoveYou.git
     ```
 2.  **Abra no Android Studio**:
     - Selecione `File > Open` e navegue até a pasta do projeto.
